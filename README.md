@@ -29,6 +29,12 @@ I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but 
 
 ---
 
+## 💡 Fun Fact
+
+Despite coming from a completely non-technical academic background, I leaped into tech purely out of passion and curiosity — and I'm just getting started!
+
+---
+
 ## 🌟 GitHub Stats & Badges
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sritamag14&show_icons=true&theme=radical)  
@@ -42,11 +48,6 @@ I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sritama-ganguly/)
 
----
-
-## 💡 Fun Fact
-
-Despite coming from a completely non-technical academic background, I leaped into tech purely out of passion and curiosity — and I'm just getting started!
 
 ---
 
