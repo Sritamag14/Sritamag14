@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 
-I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but my journey into tech wasn't a conventional one. I started with a background in **Humanities and Mass Communication**, but my passion for technology led me down a new path. I self-learned cloud technologies and now I'm upskilling further through a **Gen AI and Machine Learning course with IIT Kanpur**.
+I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but my journey into tech wasn't a conventional one. I started with a background in **Humanities and Mass Communication**, but my passion for technology led me down a new path. I self-learned cloud technologies and now I'm upskilling further through the **Professional Certificate Course in  Gen AI and Machine Learning course with IIT Kanpur in collaboration with Simplilearn**.
 
 ---
 
