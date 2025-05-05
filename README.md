@@ -31,10 +31,10 @@ I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but 
 
 ## 🌟 GitHub Stats & Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sritama-Ganguly&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sritama-Ganguly&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sritamag14&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sritamag14&layout=compact&theme=radical)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sritama-Ganguly&theme=dracula)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sritamag14&theme=dracula)
 
 ---
 
