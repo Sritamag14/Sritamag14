@@ -29,7 +29,9 @@ I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but 
 🔹 So far, I have worked on 3 projects:
 
 [![Expense Tracker](https://img.shields.io/badge/💰-Expense_Tracker_Python-2ea44f?style=flat)](https://github.com/Sritamag14/Expense-Tracker-Python)  - A personal finance management tool  
+
 [![Sales Analysis](https://img.shields.io/badge/📈-Sales_Analysis_Project-2ea44f?style=flat)](https://github.com/Sritamag14/Sales---Analysis-Project) - Data exploration and insights from sales records
+
 [![Employee Turnover](https://img.shields.io/badge/🤝-Employee_Turnover_Project-2ea44f?style=flat)](https://github.com/Sritamag14/Machine-Learning-Projects/blob/main/Employee%20Turnover%20Project.ipynb)  - Employee Turnover Prodiction using Machine Learning
 
 ---
