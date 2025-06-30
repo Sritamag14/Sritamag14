@@ -12,7 +12,7 @@
 
 ## 💻 About Me
 
-I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but my journey into tech wasn't a conventional one. I started with a background in **Humanities and Mass Communication**, but my passion for technology led me down a new path. I self-learned cloud technologies and now I'm upskilling further through the **Professional Certificate Course in Gen AI and Machine Learning with IIT Kanpur in collaboration with Simplilearn**.
+I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but my journey into tech wasn't a conventional one. With a background in **Humanities and Mass Communication**, my passion led me to self-learn cloud technologies and now I'm advancing through the **Professional Certificate Course in Gen AI and Machine Learning with IIT Kanpur & Simplilearn**.
 
 ---
 
@@ -26,19 +26,28 @@ I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but 
 
 ## 📂 Featured Projects
 
-🔹 So far, I have worked on 3 projects:
+Here are some highlights from my hands‑on work:
 
-[![Expense Tracker](https://img.shields.io/badge/💰-Expense_Tracker_Python-2ea44f?style=flat)](https://github.com/Sritamag14/Expense-Tracker-Python)  - A personal finance management tool  
+[![Expense Tracker](https://img.shields.io/badge/💰-Expense_Tracker_Python-2ea44f?style=flat)](https://github.com/Sritamag14/Expense-Tracker-Python) – A personal finance management tool  
 
-[![Sales Analysis](https://img.shields.io/badge/📈-Sales_Analysis_Project-2ea44f?style=flat)](https://github.com/Sritamag14/Sales---Analysis-Project) - Data exploration and insights from sales records
+[![Sales Analysis](https://img.shields.io/badge/📈-Sales_Analysis_Project-2ea44f?style=flat)](https://github.com/Sritamag14/Sales---Analysis-Project) – Data exploration and insights from sales records  
 
-[![Employee Turnover](https://img.shields.io/badge/🤝-Employee_Turnover_Project-2ea44f?style=flat)](https://github.com/Sritamag14/Machine-Learning-Projects/blob/main/Employee%20Turnover%20Project.ipynb)  - Employee Turnover Prodiction using Machine Learning
+[![Employee Turnover](https://img.shields.io/badge/🤝-Employee_Turnover_Project-2ea44f?style=flat)](https://github.com/Sritamag14/Machine-Learning-Projects/blob/main/Employee%20Turnover%20Project.ipynb) – Predicting employee attrition using ML (feature analysis, SMOTE, k‑fold validation & retention strategy)
+
+---
+
+## 📁 Project Repositories
+
+These are the main repositories where I build and refine my coding projects:
+
+- [🔹 Python Foundation Projects](https://github.com/Sritamag14/Python-Foundation-Projects) – A collection of exercises and mini‑projects to strengthen my core Python programming skills.  
+- [🔹 Machine Learning Projects](https://github.com/Sritamag14/Machine-Learning-Projects) – My main ML workspace containing full‑scale projects.
 
 ---
 
 ## 💡 Fun Fact
 
-Despite coming from a completely non-technical academic background, I leaped into tech purely out of passion and curiosity — and I'm just getting started!
+Despite coming from a completely non‑technical academic background, I leaped into tech purely out of passion and curiosity — and I'm just getting started!
 
 ---
 
