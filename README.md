@@ -26,7 +26,7 @@ I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but 
 
 ## 📂 Featured Projects
 
-🔹 So far, I have worked on 2 repositories — stay tuned for updates!
+🔹 So far, I have worked on 2 projects:
 
 [![Expense Tracker](https://img.shields.io/badge/💰-Expense_Tracker_Python-2ea44f?style=flat)](https://github.com/Sritamag14/Expense-Tracker-Python)  - A personal finance management tool  
 [![Sales Analysis](https://img.shields.io/badge/📈-Sales_Analysis_Project-2ea44f?style=flat)](https://github.com/Sritamag14/Sales---Analysis-Project) - Data exploration and insights from sales records
