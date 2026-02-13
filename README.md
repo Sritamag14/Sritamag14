@@ -54,6 +54,7 @@ Despite coming from a completely non‑technical academic background, I leaped i
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sritama-ganguly/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/neotericthemis/)
 
 ---
 
