@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="https://github.com/Sritamag14/Sritamag14/blob/main/cover/Banner.png" alt="Sritama Ganguly — Technology Profile Banner" width="100%" />
+</p>
 
-<h1 align="center">Hi, I'm Sritama Ganguly 👋</h1>
+<h1 align="center">Hi, I'm Sritama Ganguly! 👋</h1>
 
 <p align="center">
-  <strong>AI Content Evaluator | LLM Evaluation | Conversational AI | Cloud Technology</strong>
+  AI Evaluation | Conversational AI | Cloud Technology
 </p>
 
 <p align="center">
