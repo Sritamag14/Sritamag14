@@ -1,70 +1,142 @@
+
+<h1 align="center">Hi, I'm Sritama Ganguly 👋</h1>
+
 <p align="center">
-  <img src="https://github.com/Sritamag14/Sritamag14/blob/main/banner.png" alt="Sritama Ganguly Banner" />
+  <strong>AI Content Evaluator | LLM Evaluation | Conversational AI | Cloud Technology</strong>
 </p>
 
-# 👋 Hi, I'm Sritama Ganguly!
-
-🎯 **Machine Learning and AI Aspirant**  
-☁️ **Cloud Administrator | Microsoft 365 | Exchange**  
-🧠 **Tech Junkie | Lifelong Learner**  
-
----
-
-## 💻 About Me
-
-I'm currently working as a **Cloud & Exchange Administrator at Accenture**, but my journey into tech wasn't a conventional one. With a background in **Humanities and Mass Communication**, my passion led me to self-learn cloud technologies and now I'm advancing through the **Professional Certificate Course in Gen AI and Machine Learning with IIT Kanpur & Simplilearn**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sritama-ganguly/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sritamag14">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 About Me
 
-- 🌐 Learning: `Python`, `Machine Learning`, `Generative AI`  
-- 🗄️ Basics of: `SQL`  
-- ☁️ Experience with: `Microsoft 365`, `Exchange`, `Cloud Concepts`
+I'm an **AI Content Evaluator and Specialist** with an interest in conversational AI, large language models, linguistic analysis, and the evolving relationship between humans and technology.
 
----
+My work involves evaluating AI-generated responses, assessing instruction-following and contextual accuracy, identifying inconsistencies, and providing qualitative feedback to improve conversational AI systems.
 
-## 📂 Featured Projects
+With an academic background in **Communicative English**, I bring a language-focused perspective to AI evaluation. I've also completed professional training in **Generative AI and Machine Learning through IIT Kanpur**.
 
-Here are some highlights from my hands‑on work:
+Previously, I worked as a **Microsoft 365 and Exchange Support Engineer at Accenture**, gaining experience in enterprise cloud environments, identity management, technical troubleshooting, and automation.
 
-[![Expense Tracker](https://img.shields.io/badge/💰-Expense_Tracker_Python-2ea44f?style=flat)](https://github.com/Sritamag14/Expense-Tracker-Python) – A personal finance management tool  
-
-[![Sales Analysis](https://img.shields.io/badge/📈-Sales_Analysis_Project-2ea44f?style=flat)](https://github.com/Sritamag14/Sales---Analysis-Project) – Data exploration and insights from sales records  
-
-[![Employee Turnover](https://img.shields.io/badge/🤝-Employee_Turnover_Project-2ea44f?style=flat)](https://github.com/Sritamag14/Machine-Learning-Projects/blob/main/Employee%20Turnover%20Project.ipynb) – Predicting employee attrition using ML (feature analysis, SMOTE, k‑fold validation & retention strategy)
+I'm particularly interested in the intersection of language, artificial intelligence, technology, and human-computer interaction.
 
 ---
 
-## 📁 Project Repositories
+## 💼 Professional Experience
 
-These are the main repositories where I build and refine my coding projects:
+**AI Content Evaluator & Specialist**  
+*Respondent.io | AI Evaluation*
 
-- [🔹 Python Foundation Projects](https://github.com/Sritamag14/Python-Foundation-Projects) – A collection of exercises and mini‑projects to strengthen my core Python programming skills.  
-- [🔹 Machine Learning Projects](https://github.com/Sritamag14/Machine-Learning-Projects) – My main ML workspace containing full‑scale projects.
+- Evaluate conversational AI responses for quality, relevance, and contextual accuracy.
+- Assess instruction-following and multi-turn conversational behaviour.
+- Identify hallucinations, inconsistencies, and response-quality issues.
+- Apply linguistic analysis and structured qualitative feedback.
 
----
+**Microsoft 365 and Exchange Support Engineer**  
+*Accenture*
 
-## 💡 Fun Fact
-
-Despite coming from a completely non‑technical academic background, I leaped into tech purely out of passion and curiosity — and I'm just getting started!
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sritama-ganguly/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/neotericthemis/)
+- Supported Microsoft 365 and Exchange environments.
+- Worked with enterprise cloud services and technical troubleshooting.
+- Gained experience in identity management and service administration.
+- Explored automation and process improvement through technical workflows.
 
 ---
 
-## 🌟 GitHub Stats & Badges
+## 🛠️ Technical Skills & Areas of Interest
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sritamag14&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sritamag14&layout=compact&theme=radical)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sritamag14&theme=dracula)
+| Area | Skills & Technologies |
+|---|---|
+| AI & Machine Learning | Generative AI, LLMs, Conversational AI, ML fundamentals |
+| AI Evaluation | Response evaluation, qualitative analysis, semantic annotation |
+| Programming | Python, JavaScript, TypeScript |
+| Data | SQL fundamentals, data analysis |
+| Cloud & Enterprise | Microsoft 365, Exchange, cloud concepts |
+| Development | Node.js, APIs, Git, GitHub |
+| Analytical Skills | Critical thinking, linguistic analysis, problem-solving |
 
 ---
 
-_Thanks for visiting my profile! Stay curious and keep building 🚀_
+## 🚀 Featured Projects
+
+### 🎮 [THE LAST ALIBI](https://github.com/Sritamag14/The-Last-Alibi)
+**Multiplayer Mystery & Social Deduction Game**
+
+A browser-based mystery game built around deduction, deception, interrogation, and psychological mind games.
+
+- Duo Mode and Multiplayer Mode.
+- 12 mystery cases across multiple case types.
+- Private dossiers, shared evidence, interrogation, and contradiction challenges.
+- Secret voting, scoring, and final reveals.
+- Deployed live using Netlify.
+
+🔗 [Play the live game](https://the-last-alibi.netlify.app/)
+
+### 🤖 ScholarScout-AI
+**Agentic Conversational AI Project**
+
+An AI-powered conversational assistant concept designed to help non-technical learners navigate educational resources and guidance.
+
+### 📊 [Employee Turnover Prediction](https://github.com/Sritamag14/Machine-Learning-Projects/blob/main/Employee%20Turnover%20Project.ipynb)
+A machine learning project exploring employee attrition prediction through feature analysis, SMOTE, and model validation.
+
+### 📈 [Sales Analysis](https://github.com/Sritamag14/Sales---Analysis-Project)
+A data exploration project focused on identifying patterns and extracting insights from sales records.
+
+### 💰 [Expense Tracker — Python](https://github.com/Sritamag14/Expense-Tracker-Python)
+A Python-based personal finance management project.
+
+---
+
+## 🎓 Education & Professional Training
+
+**Professional Certificate Course in Generative AI and Machine Learning**  
+Indian Institute of Technology Kanpur
+
+**Bachelor of Arts — Communicative English**  
+University of Calcutta  
+*First Class Honours*
+
+---
+
+## 📂 Explore My Repositories
+
+- [Python Foundation Projects](https://github.com/Sritamag14/Python-Foundation-Projects)
+- [Machine Learning Projects](https://github.com/Sritamag14/Machine-Learning-Projects)
+- [THE LAST ALIBI](https://github.com/Sritamag14/The-Last-Alibi)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sritamag14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sritamag14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sritamag14&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in conversations and opportunities around AI evaluation, conversational AI, language technologies, cloud systems, and creative technical projects.
+
+- **LinkedIn:** [Sritama Ganguly](https://www.linkedin.com/in/sritama-ganguly/)
+- **GitHub:** [@Sritamag14](https://github.com/Sritamag14)
+- **Instagram:** [@neotericthemis](https://www.instagram.com/neotericthemis/)
+
+---
+
+<p align="center">
+  <em>Curious about technology, fascinated by language, and always building something new. 🚀</em>
+</p>
