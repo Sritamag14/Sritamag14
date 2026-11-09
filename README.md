@@ -115,18 +115,6 @@ University of Calcutta
 - [Machine Learning Projects](https://github.com/Sritamag14/Machine-Learning-Projects)
 - [THE LAST ALIBI](https://github.com/Sritamag14/The-Last-Alibi)
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sritamag14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sritamag14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sritamag14&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 ---
 
